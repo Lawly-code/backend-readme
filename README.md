@@ -8,3 +8,7 @@
 - [GRPC контракты и клиенты](https://github.com/Lawly-code/protos)
 - [Модели БД в либе](https://github.com/Lawly-code/database)
 - [Админ](https://github.com/Lawly-code/admin)
+- [Notifications service](https://github.com/Lawly-code/notification-service)
+- [Lawyer panel](https://github.com/Lawly-code/lawyer-panel)
+- [Schedule service](https://github.com/Lawly-code/schedule)
+- [Utils](https://github.com/Lawly-code/utils)
